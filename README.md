@@ -1,2 +1,6 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+This repository is for practicing the GitHub Flow. Commit changes
+
+# Intro section
+## Section 1
+
